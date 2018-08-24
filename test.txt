@@ -1,0 +1,3 @@
+This is some kind of text.
+Want to know what SHA-2 is?
+It is better than SHA-1.

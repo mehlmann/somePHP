@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php 
-
+    include "menu.php";
     $safe = true;
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $servername = "localhost";
